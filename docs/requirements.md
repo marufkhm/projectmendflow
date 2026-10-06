@@ -38,3 +38,11 @@
 - Маруф: `api/` кроме ленты; почта; часть `deploy/` (upload limits, release)
 - Аделя: `docs/architecture.md`, `docs/api-contracts.md`, `docs/ui-ux.md`, `p.php`, `sitemap.php`, `robots.txt`, `deploy/fix-spa-routes*`
 - Асылхан: `index.html`, `js/feed-ranking.js`, `api/posts.php`, `api/post_signals.php`, `api/feed_ranking.php`
+
+## PDA / AI-ассистент (mendflow-s3 → деплой ~спринт 5)
+
+Источник кода: локальная полная копия `Desktop/mendflow-s3` (не упрощённый Desktop/mendflow).
+Включает: `api/ai.php`, `api/llm_lib.php`, модуль «Развитие» (`api/growth_*.php`, `js/growth.js`, `sql/30_growth.sql`…`37_*.sql`).
+
+На спринте 3 задеплоенный ассистент **не** входит в приёмку.
+К спринту 5: выкладка PDA на https://mendflow.us с `GROQ_API_KEY` на сервере; учебный репозиторий пополняется по зонам, без единовременной заливки всего s3.

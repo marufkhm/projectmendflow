@@ -27,3 +27,5 @@ deploy/   nginx/ssl/spa/upload скрипты
 7. Выкладка + smoke → **code freeze** → защита (только речь)
 
 Подробности: `docs/requirements.md`, роадмап в Desktop/unimend.
+
+PDA/AI: источник Desktop/mendflow-s3; деплой ~спринт 5; см. docs/requirements.md.
