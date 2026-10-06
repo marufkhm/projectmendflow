@@ -28,4 +28,4 @@ deploy/   nginx/ssl/spa/upload скрипты
 
 Подробности: `docs/requirements.md`, роадмап в Desktop/unimend.
 
-PDA/AI: источник Desktop/mendflow-s3; деплой ~спринт 5; см. docs/requirements.md.
+PDA = опционально (live LLM не блокер); источник Desktop/mendflow-s3; заливка ~S5; см. docs/requirements.md.
