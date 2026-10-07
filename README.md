@@ -1,4 +1,4 @@
-# Mendflow (учебная сдача)
+# mendflow
 
 Площадка: https://mendflow.us
 Репозиторий сдачи: https://github.com/marufkhm/projectmendflow
@@ -26,6 +26,4 @@ deploy/   nginx/ssl/spa/upload скрипты
 6. Метрики ленты (с порогом данных)  
 7. Выкладка + smoke → **code freeze** → защита (только речь)
 
-Подробности: `docs/requirements.md`, роадмап в Desktop/unimend.
-
-PDA = опционально (live LLM не блокер); источник Desktop/mendflow-s3; заливка ~S5; см. docs/requirements.md.
+PDA = опционально (live LLM не блокер); заливка ~S5; см. docs/requirements.md.
